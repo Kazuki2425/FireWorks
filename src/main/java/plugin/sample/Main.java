@@ -86,5 +86,6 @@ public final class Main extends JavaPlugin implements Listener {
   }
   String mailed = "info@raise-tech.net";
 
+  //プッシュテスト
 }
 
